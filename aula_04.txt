@@ -1,0 +1,11 @@
+Algoritmos
+
+	Sequência de passos para determinado processo
+		Estrutura de repetição. for() foreach()
+		Tomada de decisão. if(), switch()
+
+	A vida é cheia de algoritmos
+		Seres humanos também realizam
+
+	Dados de entrada -> Processamento pelo algoritmo -> Saída
+		Exitem algoritmos que possuem os dois e têm alguns que não possuem nenhum
