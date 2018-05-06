@@ -1,0 +1,21 @@
+Estruturas de Dados -> É diferente de dados apenas. Serve para dar regras aos dados. Organiza, administra, coloca em ordem
+	Filas. O primeiro que entra é atendido primeiro
+		Existem filas nos dados
+	Pilhas de livros. O primeiro livro a entrar é o último a ser lido. Contrário da fila
+		Existem pilhas de dados
+	Árvore. Exemplo: Sistema de arquivos -> C:/pastas
+	Tabela. Exemplo: Excel
+
+Estruturas de dados básicos
+	Números inteiros. Ex: 1, 2, 3
+	Números reais. Ex: 9,25
+	Letras. Ex: A, B, c
+
+Variáveis e constantes
+	Precisamos amarrar a alguma estrutura de dados(inteiro, número real, fila). Não pode mudar depois seu tipo de dado
+
+Operações
+	Atribuições
+	Aritméticas
+	Relacionais
+	Lógicas	
