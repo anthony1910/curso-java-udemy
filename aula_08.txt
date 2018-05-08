@@ -1,0 +1,4 @@
+Eclipse
+	Novo projeto -> Package Explorer > Botão direito > New > Java Project
+	Exportar projeto -> Copiar pasta do projeto e colar em outro lugar
+	Importar projeto -> Package Explorer > Botão direito > Import > Projeto existente para workspace
