@@ -1,0 +1,4 @@
+Java -> Organização é essencial
+Pacote -> Igual as pastas do meu Computador(organiza)
+	Dentro dele colocamos classes -> Geralmente é um arquivo
+		Dentro delas, há uma estrutura principal(método) main -> Porta de entrada para o Java. Primeira coisa executada. Existe apenas um main() por classe
