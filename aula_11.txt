@@ -1,3 +1,7 @@
 Eclipse
 	Ctrl + F11 -> Executa a classe, o método main()
 	Ctrl + Shift + F -> Identa o código
+
+Java
+	System.out.println("mensagem") -> Escreve a mensagem na tela
+	Sempre usar ""(aspas duplas), sempre

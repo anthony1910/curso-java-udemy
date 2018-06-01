@@ -1,0 +1,8 @@
+Comentários
+	// -> Comentário de linha única
+	/* */ -> Comentário de múltiplas linhas
+	/** */ -> Javadoc. Informações sobre o código(autor, versão, etc.). Toda linha inicia com @
+	Tomar cuidado com comentários óbvios
+
+Java
+	System.out.print("mensagem") -> Imprime mensagem e já concatena com o próximo comando
