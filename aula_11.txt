@@ -1,0 +1,3 @@
+Eclipse
+	Ctrl + F11 -> Executa a classe, o método main()
+	Ctrl + Shift + F -> Identa o código
