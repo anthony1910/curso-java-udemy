@@ -1,0 +1,11 @@
+Java
+	É uma linguagem fortemente tipada -> Tipo de dado não altera
+	Variáveis
+		Não pode iniciar com números
+		São case sensitive
+		Convenções
+			camelCase -> primeiroCliente
+	Constante
+		Letras maiúsculas, palavras separadas por _(underline) -> BASE_URL
+		final tipo_de_dado NOME -> Identifico uma constante
+	System.out.printf(string_onde_variavel_sera_implementada, variavel) -> Imprime de maneira formatada. Posso colocar número de casas decimais desejado
