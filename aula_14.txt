@@ -1,0 +1,2 @@
+Java -> Linguagem Orientada a Objetos
+	Notação Ponto -> Me dá acesso a uma série de comportamentos(métodos)
