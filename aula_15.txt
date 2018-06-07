@@ -1,0 +1,9 @@
+Java
+	Import -> Necessário para classes externas funcionarem em meu projeto. Similar ao require do PHP ou use da Orientação a Objetos
+		Há classes que veêm importadas como padrão no Java -> System, Double
+		Outras são necessárias adicionar o import -> Button, Date
+
+Eclipse
+	Teclas de Atalho
+		Ctrl + Espaço -> Mostra sugestões para completar comando
+		Ctrl + Shift + O -> Mostra sugestões de Import para a classe e os organiza
