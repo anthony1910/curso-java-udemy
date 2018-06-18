@@ -1,0 +1,23 @@
+Java
+	Tipos primitivos
+		Numéricos
+			Inteiro
+				Integer.toBinaryString() -> Imprime um número em binário
+				Representação do printf() -> %d
+				Byte -> 8 bits. Vai de -128 a 127
+				Short -> 2 bytes
+				Int -> 4 bytes
+				Long -> 8 bytes
+				(É possível definir casas decimais com _(underline))
+			Ponto Flutuante
+				Representação do printf() -> %f
+					É possível definir o número de casas decimais -> Exemplo: %.2f -> Duas casas decimais
+				Float -> 4 bytes
+				Double -> 8 bytes
+			Char -> Caractere
+				\u -> Permite inserção de códigos da tabela unicode
+				Representação do printf() -> %c
+			Boolean -> Não permite numéricos(0, 1), apenas true e false
+				Representação do printf() -> %b
+	Declaração de variáveis
+		Tipo de dado + nome da variável
